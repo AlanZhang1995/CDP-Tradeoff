@@ -1,0 +1,2 @@
+model_checkpoint_path: "MNIST.model-59"
+all_model_checkpoint_paths: "MNIST.model-59"
